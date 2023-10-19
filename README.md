@@ -39,4 +39,12 @@ All of the floor plans have titles. Find the floor plan for the floor you are ma
 7. Using the yellow ruler icon in the lower right corner, select the ruler icon and then select two points on the floor plan are the location and distance you measured/selected. This will provide NetApp the correct scale for the floor plan.
 ![](./images/netapp-4-scale.jpg)
 
-8. 
+8. Next set the scale to medium.
+
+9. Drag the icon to a location on the floor plan that is easy to find and select. This will be the starting point for the mapping. You will need to move to that location before starting the scanning.
+
+10. After scanning that square on the map move your self and the tablet to approximately the next square over on the map and scan again. Repeat this process until you have scanned the entire floor plan or as much as you can. Do not enter any rooms that are locked or you do not have permission to enter!
+
+11. Once done scanning press the "Done" button.
+
+12. 
