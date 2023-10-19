@@ -45,6 +45,17 @@ All of the floor plans have titles. Find the floor plan for the floor you are ma
 
 10. After scanning that square on the map move your self and the tablet to approximately the next square over on the map and scan again. Repeat this process until you have scanned the entire floor plan or as much as you can. Do not enter any rooms that are locked or you do not have permission to enter!
 
-11. Once done scanning press the "Done" button.
+11. The application needs *at least* three points of data to provide any analysis. Once done scanning press the "Done" button.
 
-12. 
+12. Press the button labeled "WiFi heatmaps" that will generate the heat map.
+
+13. Once the heat map is generated you can move the avatar around the map to inspect data at different locations. Clicking on the various WiFi Access Points will provide more information about that Access Point.
+
+14. Move the avatar to your current location **AND** make sure to place the avatar on top of one of the blue data points. The avatars icon will change (a tiny bit) and a number will appear over its heat the signal strength at that location.
+![](./images/netapp-6-icon.jpg)
+
+15. Clicking on the person icon will provide a listing of the WiFi SSIDs and their signal strength at that location. 
+![](./images/netapp-7-icon.png)
+
+
+14. At the bottom of the heatmap there's a menu option currently set to "Signal level" clicking on these words will allow for two additional options: "Signal-to-interference ratio" and "Signal-to-noise ratio". Selecting "Signal-to-noise ratio" and then clicking on the avatar again. This will provide a listing of the WiFi SSIDs and their signal-to-noise ratio at that location.
