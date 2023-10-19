@@ -58,6 +58,7 @@ TL;DR - Try not to break the lab machines, but don't worry too much if something
 ![](./images/netapp-6-icon.jpg)
 
 15. Clicking on the person icon will provide a listing of the WiFi SSIDs and their signal strength at that location. 
+
 ![](./images/netapp-7-icon.png)
 
 16. At the bottom of the heatmap there's a menu option currently set to "Signal level" clicking on these words will allow for two additional options: "Signal-to-interference ratio" and "Signal-to-noise ratio". Selecting "Signal-to-noise ratio" and then clicking on the avatar again. This will provide a listing of the WiFi SSIDs and their signal-to-noise ratio at that location.
