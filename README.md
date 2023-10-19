@@ -11,7 +11,7 @@
 -   ECT Dept provided tablet
 
 ### Task 0 - Destruction of University Lab Machines
-Please note that this work is done on university equipment so YOUR equipment doesn't get broken and become non-functional. Please don't TRY and break the lab machines... however, that is their purpose is to have students do weird things with them. 
+Please note that this work is done on university equipment so YOUR equipment doesn't get broken and become non-functional. Please don't TRY and break the lab machines... however, their purpose is to have students things, sometimes weird things with and to them. 
 
 TL;DR - Try not to break the lab machines, but don't worry too much if something goes off the rails. Get and instructor and we'll help fix it. (Learning Moment!)
 
@@ -46,7 +46,7 @@ TL;DR - Try not to break the lab machines, but don't worry too much if something
 
 10. After scanning that square on the map move your self and the tablet to approximately the next square over on the map and scan again. Repeat this process until you have scanned the entire floor plan or as much as you can. Do not enter any rooms that are locked or you do not have permission to enter!
 
-11. The application needs *at least* three points of data to provide any analysis. Once done scanning press the "Done" button.
+11. Collect *at least* ten points of data to provide good data for analysis. Once done scanning press the "Done" button.
 
 12. Press the button labeled "WiFi heatmaps" that will generate the heat map.
 
