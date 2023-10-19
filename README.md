@@ -71,3 +71,5 @@ TL;DR - Try not to break the lab machines, but don't worry too much if something
 18. This menu allows the user to choose which SSIDs are shown in the map. Go through the list and de-select all EXCEPT the "OHIO University Guest" SSID. This will allow you to see the signal strength of the OHIO University Guest network. Use the back arrow in the upper left corner to go back to the heat map.
 
 19. If the heat map does not have enough data or does not cover the area(s) of interest. Press the three buttons in the upper left corner of the screen. This will bring up a menu that allows the user to select the " Resume scanning" option. This will allow the user to continue scanning the floor plan and adding more data to the heat map.
+
+20. Come back to the lab when finished.
