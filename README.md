@@ -32,7 +32,7 @@ All of the floor plans have titles. Find the floor plan for the floor you are ma
 
 5. When prompted provide a name for the project. Adding the name of the floor you are mapping is a good idea.
 
-### Task 2 - Setting Project Scale
+### Task 2 - Project Settings
 
 6. NetApp will show the floor plan image select and require the use provide a scale for the floor plan. Orient yourself to the floor plan and find a location that you can use to measure a distance. Find that distance by using a tape measure (ask the instructor) or using a known distance (e.g. the width of a door is usually 3 feet / 36 inches).
 
@@ -49,6 +49,8 @@ All of the floor plans have titles. Find the floor plan for the floor you are ma
 
 12. Press the button labeled "WiFi heatmaps" that will generate the heat map.
 
+### Task 3 - WiFi Heatmap Data Analysis
+
 13. Once the heat map is generated you can move the avatar around the map to inspect data at different locations. Clicking on the various WiFi Access Points will provide more information about that Access Point.
 
 14. Move the avatar to your current location **AND** make sure to place the avatar on top of one of the blue data points. The avatars icon will change (a tiny bit) and a number will appear over its heat the signal strength at that location.
@@ -57,5 +59,13 @@ All of the floor plans have titles. Find the floor plan for the floor you are ma
 15. Clicking on the person icon will provide a listing of the WiFi SSIDs and their signal strength at that location. 
 ![](./images/netapp-7-icon.png)
 
+16. At the bottom of the heatmap there's a menu option currently set to "Signal level" clicking on these words will allow for two additional options: "Signal-to-interference ratio" and "Signal-to-noise ratio". Selecting "Signal-to-noise ratio" and then clicking on the avatar again. This will provide a listing of the WiFi SSIDs and their signal-to-noise ratio at that location.
 
-14. At the bottom of the heatmap there's a menu option currently set to "Signal level" clicking on these words will allow for two additional options: "Signal-to-interference ratio" and "Signal-to-noise ratio". Selecting "Signal-to-noise ratio" and then clicking on the avatar again. This will provide a listing of the WiFi SSIDs and their signal-to-noise ratio at that location.
+### Task 3 - Getting More Information
+
+17. Using the "three dots" icon in the upper right corner. Select the option "Include/Exclude networks"
+![](./images/netapp-8-icon.png)
+
+18. This menu allows the user to choose which SSIDs are shown in the map. Go through the list and de-select all EXCEPT the "OHIO University Guest" SSID. This will allow you to see the signal strength of the OHIO University Guest network. Use the back arrow in the upper left corner to go back to the heat map.
+
+19. If the heat map does not have enough data or does not cover the area(s) of interest. Press the three buttons in the upper left corner of the screen. This will bring up a menu that allows the user to select the " Resume scanning" option. This will allow the user to continue scanning the floor plan and adding more data to the heat map.
