@@ -24,7 +24,8 @@ TL;DR - Try not to break the lab machines, but don't worry too much if something
 
 3. Select "Create new heat map" option and "Add Existing photo of a map.." option.
 
-4. This will show a listing of several thumbnails of floor plans. Unfortunately they are VERY hard to figure out which one is which. Using the expand icon on the thumbnail (outlined in red in the image below) you can see the full image. Use the back arrow  in the lower left corner to go back to the full listing of thumbnails. ![](./images/netapp-3-icon.png)
+4. This will show a listing of several thumbnails of floor plans. Unfortunately they are VERY hard to figure out which one is which. Using the expand icon on the thumbnail (outlined in red in the image below) you can see the full image. Use the back arrow  in the lower left corner to go back to the full listing of thumbnails.
+![](./images/netapp-3-icon.png)
 
 All of the floor plans have titles. Find the floor plan for the floor you are mapping and select it.
 
